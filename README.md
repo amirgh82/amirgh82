@@ -27,7 +27,7 @@ const bio = {
 ## ارتباط با من
 
 <a href="https://instagram.com/amirreza_ghorbani8"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-instagram-100.png?raw=true" alt="instagram"/></a>
-<a href="https://instagram.com/amirrez"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-twitter-100.png?raw=true" alt="twitter"/></a>
-<a href="https://instagram.com/amirreza_ghorbani8"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-github-100.png?raw=true" alt="instagram"/></a>
+<a href="https://twitter.com/amirgh_react"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-twitter-100%20(2).png?raw=true" alt="twitter"/></a>
+<a href="https://t.me/Ghorbani82"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-github-100.png?raw=true" alt="telegram"/></a>
 
 
