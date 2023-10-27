@@ -19,15 +19,16 @@ const bio = {
 
 ## هدف من
 
-هدف من در این دنیای برنامه‌نویسی، یادگیری تکنولوژی‌های جدید و به‌روز و به اشتراک‌گذاری آن‌ها با دیگران است.
+هنوز تازه‌کارم، هدفم از زیر درخت `React` بیرون نیفتم، یا اینکه بخوام در دنیای کدنویسی یک `React` شوم!
 
 ## ابزار هایی که استفاده می کنم
+![HTML](https://img.shields.io/badge/html-hotpink?logo=html5)  ![CSS3](https://img.shields.io/badge/css-gold?logo=css3)  ![javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) ![react](https://img.shields.io/badge/react-black?logo=react)
 
 
 ## ارتباط با من
 
 <a href="https://instagram.com/amirreza_ghorbani8"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-instagram-100.png?raw=true" alt="instagram"/></a>
 <a href="https://twitter.com/amirgh_react"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-twitter-100%20(2).png?raw=true" alt="twitter"/></a>
-<a href="https://t.me/Ghorbani82"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-github-100.png?raw=true" alt="telegram"/></a>
+<a href="https://t.me/Ghorbani82"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-telegram-100.png?raw=true" alt="telegram"/></a>
 
 
