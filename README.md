@@ -11,7 +11,9 @@ const bio = {
 
 <h2>درباره من 👤</h2>
 
-<p> `امیررضا قربانی` هستم، یک کدنویس تازه‌کار در دنیای React. با بیش از دو دهه کارنامه سنی و یک علاقه بی‌پایان به کدنویسی، همیشه دنبال یادگیری و پیشرفتم. از اونجایی که هنوز در این مسیر تازه‌کارم، هر روز یک چالش جدید برای من رقم می‌خورد و هر خط کد یک ماجراست.🌟</p>
+<p>سلام  امیررضا قربانی هستم 👋، یک کدنویس تازه‌کار در دنیای React. با بیش از دو دهه کارنامه سنی و یک علاقه بی‌پایان به کدنویسی، همیشه دنبال یادگیری و پیشرفتم. از اونجایی که هنوز در این مسیر تازه‌کارم، هر روز یک چالش جدید برای من رقم می‌خورد و هر خط کد یک ماجراست.🌟</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amirgh82&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=dark)](https://git.io/streak-stats)
 
 <h2> در دنیای کدنویسی 💻</h2>
 
@@ -23,10 +25,9 @@ const bio = {
 
 <h2>ابزار هایی که استفاده می کنم 💪 💎</h2>
  
-![HTML](https://img.shields.io/badge/html-hotpink?logo=html5)  ![CSS3](https://img.shields.io/badge/css-gold?logo=css3)  ![javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) ![react](https://img.shields.io/badge/react-black?logo=react)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github)](https://skillicons.dev)
 
 <h2>ارتباط با من 📞</h2>
-
 
 <a href="https://instagram.com/amirreza_ghorbani8"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-instagram-100.png?raw=true" alt="instagram"/></a>
 <a href="https://twitter.com/amirgh_react"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-twitter-100%20(2).png?raw=true" alt="twitter"/></a>
