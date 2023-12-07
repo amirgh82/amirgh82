@@ -6,7 +6,7 @@ const bio = {
   age: 20,
   location: "Tehran, Iran",
   major: "Industrial Engineering",
-  skills: ["Html", "css" ,"bootstrap", "git", "github" ,"JavaScript", "React"],
+  skills: ["Html", "css" ,"tailwind", "git", "github" ,"JavaScript", "React"],
 };
 ```
 
@@ -24,7 +24,7 @@ const bio = {
 
 <h2>ابزار هایی که استفاده می کنم 💪 💎</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,git,github)](https://skillicons.dev)
 
 <h2>ارتباط با من 📞</h2>
 
