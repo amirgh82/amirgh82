@@ -29,8 +29,4 @@ const bio = {
 <h2>ارتباط با من 📞</h2>
 
 <a href="https://instagram.com/amirreza_ghorbani8"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-instagram-100.png?raw=true" alt="instagram"/></a>
-<a href="https://twitter.com/amirgh_react"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-twitter-100%20(2).png?raw=true" alt="twitter"/></a>
 <a href="https://t.me/Ghorbani82"><img src="https://github.com/amirgh82/amirgh82/blob/main/icons8-telegram-100.png?raw=true" alt="telegram"/></a>
-
-
-![gif](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
