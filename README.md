@@ -9,6 +9,9 @@ const bio = {
   skills: ["Html", "css" ,"tailwind", "git", "github" ,"JavaScript", "React"],
 };
 ```
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <h2>درباره من 👤</h2>
 
 <p>سلام  امیررضا قربانی هستم 👋، یک کدنویس تازه‌کار در دنیای React. با بیش از دو دهه کارنامه سنی و یک علاقه بی‌پایان به کدنویسی، همیشه دنبال یادگیری و پیشرفتم. از اونجایی که هنوز در این مسیر تازه‌کارم، هر روز یک چالش جدید برای من رقم می‌خورد و هر خط کد یک ماجراست.🌟</p>
