@@ -24,7 +24,7 @@ const bio = {
 
 <h2>ابزار هایی که استفاده می کنم 💪 💎</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,git,github,next,ts)](https://skillicons.dev)
 
 <h2>ارتباط با من 📞</h2>
 
