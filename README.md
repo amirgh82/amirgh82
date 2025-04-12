@@ -6,7 +6,7 @@ const bio = {
   age: 20,
   location: "Tehran, Iran",
   major: "Industrial Engineering",
-  skills: ["Html", "css" ,"tailwind", "git", "github" ,"JavaScript", "React"],
+  skills: ["Html", "css" ,"tailwind", "git", "github" ,"JavaScript", "React" , "Next js"],
 };
 ```
 
