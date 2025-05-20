@@ -3,7 +3,7 @@
 const bio = {
   firstname: "Amirreza",
   lastname: "Ghorbani",
-  age: 20,
+  age: 22,
   location: "Tehran, Iran",
   major: "Industrial Engineering",
   skills: ["Html", "css" ,"tailwind", "git", "github" ,"JavaScript", "React" , "Next js"],
